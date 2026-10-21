@@ -4,7 +4,7 @@ A Real-time webcam movement tracker built with Python, Flask, OpenCV, and MediaP
 
 ## Run locally
 
-Python 3.10–3.12 is recommended.
+Python 3.10–3.12 is  recommended.
 
 ```powershell
 py -3.11 -m venv .venv
