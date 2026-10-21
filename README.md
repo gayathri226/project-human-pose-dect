@@ -1,6 +1,6 @@
 # Form — AI Human Pose Studio
 
-A real-time webcam movement tracker built with Python, Flask, OpenCV, and MediaPipe Holistic. It detects 33 body landmarks, 478 facial points, and 21 landmarks on each hand, draws a detailed live overlay, and reports alignment, confidence, movement state, and session statistics. In local mode, frames are processed by the Python service on your computer. The lightweight holistic model is included under `models/`.
+A Real-time webcam movement tracker built with Python, Flask, OpenCV, and MediaPipe Holistic. It detects 33 body landmarks, 478 facial points, and 21 landmarks on each hand, draws a detailed live overlay, and reports alignment, confidence, movement state, and session statistics. In local mode, frames are processed by the Python service on your computer. The lightweight holistic model is included under `models/`.
 
 ## Run locally
 
