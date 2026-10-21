@@ -16,7 +16,7 @@ python app.py
 
 Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in a modern browser and allow camera access. Camera access works on `localhost`; frames are sent to the local Flask server for pose analysis.
 
-## features
+## Features
 
 - Live camera capture, camera switching, pause/resume, and fullscreen view.
 - 33 MediaPipe pose landmarks with a connected, visibility-aware skeleton overlay.
