@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: project-human-pose-detect
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    dockerfilePath: ./Dockerfile

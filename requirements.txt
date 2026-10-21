@@ -1,0 +1,4 @@
+Flask>=3.0,<4.0
+mediapipe>=0.10.31,<0.11
+numpy>=1.26,<3.0
+gunicorn>=22,<24; platform_system != "Windows"
