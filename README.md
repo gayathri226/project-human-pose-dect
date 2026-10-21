@@ -2,7 +2,7 @@
 
 A Real-time webcam movement tracker built with Python, Flask, OpenCV, and MediaPipe Holistic. It detects 33 body landmarks, 478 facial points, and 21 landmarks on each hand, draws a detailed live overlay, and Reports alignment, confidence, movement state, and session statistics. In local mode, frames are processed by the Python service on your Computer. The lightweight holistic model is included under `models/`.
 
-## run locally
+## Run locally
 
 Python 3.10–3.12 is recommended.
 
